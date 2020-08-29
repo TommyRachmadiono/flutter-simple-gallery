@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class DetailImage extends StatelessWidget {
-  String image;
+  final String image;
 
   DetailImage({this.image});
 
